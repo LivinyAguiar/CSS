@@ -1,0 +1,17 @@
+#id1{
+    font-family: Verdana;
+    font-weight: bolder;
+    font-size: larger;
+    color:blue;
+}
+.classA{
+    font-family: Tahoma;
+    font-size: 10pt;
+    font-style: italic;
+    color: #333333;
+}
+body{
+    font-family: Arial;
+    font-size: 10pt;
+    color:  black;
+}
