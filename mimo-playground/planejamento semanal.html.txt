@@ -1,0 +1,75 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <title>Panejamento Semanal</title>
+  </head>
+  <body>
+    <h1>Planejamento Semanal</h1>
+    <h2>Abril</h2>
+    <hr>
+    <h3>Segunda-feira</h3><hr>
+    <p><b>Aula de Sistemas de Informação</b> - <em><time>10h às 11h40</time></em></p>
+    <ul>
+      <li>Assistir vídeo aula - introdução à sistemas de informação</li>
+    </ul>
+    <form method="post" action="recebe.php">
+      <input type="checkbox" value="1">Responder fórum <br>
+      <input type="checkbox" value="1">Assistir vídeo complementar
+    </form>
+    <hr><h3>Terça-feira</h3><hr>
+    <p><b>Aula de Programação</b> - <em><time>18h30 às 20h20</time></em></p>
+    <ul>
+      <li>Assistir aula - introdução à programação</li> 
+      <li>assistir aula - introdução à algoritmos</li> 
+    </ul>
+    <form method="post" action="recebe.php">
+      <input type="checkbox" value="1">Responder exercícios <br>
+    </form>
+    <hr><h3>Quarta-feira</h3><hr>
+    <p><b>Aula de Matemática e Lógica</b> - <em><time>18h30h às 20h20</time></em></p>
+    <ul>
+      <li>Assistir chamada síncrona</li>
+    </ul>
+    <form method="post" action="recebe.php">
+      <input type="checkbox" value="1">Responder exercícios <br>
+      <input type="checkbox" value="1">Assistir vídeo complementar
+    </form>
+    <hr><h3>Quinta-feira</h3><hr>
+    <p><b>Aula de Modelos de Gestão Organizacional</b> - <em><time>14h às 15h40</time></em></p>
+    <ul>
+      <li>Assistir chamada síncrona</li>
+    </ul>
+    <form method="post" action="recebe.php">
+      <input type="checkbox" value="1">Assistir vídeo complementar<br>
+      <input type="checkbox" value="1">Ler o slide da aula
+    </form>
+    <hr><h3>Sexta-feira</h3><hr>
+    <p><b>Aula de Modelos de Gestão Organizacional</b> - <em><time>14h às 15h40</time></em></p>
+    <ul>
+      <li>Assistir chamada síncrona</li>
+    </ul>
+    <form method="post" action="recebe.php">
+      <input type="checkbox" value="1">Responder fórum <br>
+      <input type="checkbox" value="1">Assistir vídeo complementar
+    </form>
+    <hr><h3>Sábado</h3><hr>
+    <p><b>Aula de Banco de Dados</b> - <em><time>8h às 9h40</time></em></p>
+    <ul>
+      <li>Assistir vídeo aula</li>
+    </ul>
+    <form method="post" action="recebe.php">
+      <input type="checkbox" value="1">Responder exercícios <br>
+      <input type="checkbox" value="1">Ler livro complementar
+    </form>
+    <hr><h3>Domingo</h3><hr>
+    <p><b>Escola Bíblica Dominical</b> - <em><time>8h30 às 10h30</time></em></p>
+    <ul>
+      <li>Lição 1 do segundo trimestre</li>
+    </ul>
+    <form method="post" action="recebe.php">
+      <input type="checkbox" value="1">Ler a lição <br>
+    </form>
+    <hr><h2>Salvar Planejamento</h2><hr>
+    <button>Imprimir</button><button>Salvar</button><button>baixar</button>
+  </body>
+  </html>

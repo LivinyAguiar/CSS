@@ -1,0 +1,103 @@
+body{
+    background-color: #ffedea;
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1{
+    font-size: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    color: #00867d;
+}
+.menu{
+    background-color: #ffdad6;
+    border: 5px solid #ffdad6;
+    border-radius: 50px;
+    padding: 10px;
+    margin: 20px 70px 50px 70px;
+    text-align: center;
+    color: #00867d;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+}
+div{
+    display: inline-block;
+}
+
+#poster{
+    width: 300px;
+    height: 400px;
+    top: 80%;
+    position: absolute;
+    left: 90%;
+    transform: translate(-80%, -90%);
+    border: 3px solid #ffdad6;
+    border-radius: 10px 0 10px 0;
+}
+h2{
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: left;
+    color: #00867d;
+}
+button{
+    background-color: #ffdad6;
+    color:indianred;
+    width: 100px;
+    height: 40px;
+    border: solid #ffdad6;
+    border-radius: 10px;
+    text-align: center;
+    padding: 5px;
+    margin: 30px 50x 50px 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+
+}
+footer{
+    font-size: smaller;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #00867d;
+    text-align: center;
+}
+p{
+    color: indianred;
+    padding: 20px;
+    margin: 20px 10px 20px 10px;
+    border-radius: 10px;
+    width: 800px;
+    height: 100px;
+    border: 1px solid #ffdad6;
+    background-color: #ffdad6;
+
+}
+a{
+    color: indianred;
+    text-decoration: none;
+}
+.artigos{
+    width: 300px;
+    height: 200px;
+    background-color: #ffdad6;
+    color:indianred;
+    border: 2px solid #ffdad6;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 0 0 30px 30px;
+}
+#img1{
+    width: 311px;
+}
+#img2{
+    width: 315px;
+}
+#img3{
+    width:462px;
+}
+#img4{
+    width: 352px;
+}
+#img5{
+    width: 309px;
+}
