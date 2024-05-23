@@ -1,0 +1,23 @@
+h1{
+    text-decoration: underline;
+    font-family: Verdana;
+    color:#00a298
+}
+h2{
+    font-weight:lighter;
+    font-family: Verdana;
+    color: #ff897d;
+}
+h3{
+    font-family: 'Courier New', Courier, monospace;
+    Color: purple;
+}
+h4{
+    font-family: sans-serif;
+    font-style: italic;
+    Color:#a8d3aa;
+}
+p{
+    font-family: Arial;
+    Color: black;
+}
